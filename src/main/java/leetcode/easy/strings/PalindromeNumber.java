@@ -5,6 +5,7 @@ package leetcode.easy.strings;
 //  Output: true
 //  Explanation: 121 reads as 121 from left to right and from right to left.
 
+//10.12.2023
 public class PalindromeNumber {
     public static boolean isPalindrome(int x) {
         String string = Integer.toString(x);
