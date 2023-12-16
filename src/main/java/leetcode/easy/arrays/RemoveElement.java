@@ -1,4 +1,4 @@
-package leetcode.arrays;
+package leetcode.easy.arrays;
 
 //TODO:
 // Given an integer array nums and an integer val, remove all occurrences of val in nums in-place.

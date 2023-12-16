@@ -1,4 +1,4 @@
-package leetcode.strings;
+package leetcode.easy.strings;
 
 //TODO: Given an integer x, return true if x is a palindrome, and false otherwise.
 //  Input: x = 121
