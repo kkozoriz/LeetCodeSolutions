@@ -12,6 +12,7 @@ import java.util.Set;
 // The remaining elements of nums are not important as well as the size of nums.
 // Return k.
 
+//15.12.2023
 public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {
         int index = 0, count = 0;
