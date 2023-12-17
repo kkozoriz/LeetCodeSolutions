@@ -4,6 +4,8 @@ This repository on GitHub was created to store solutions to algorithmic problems
 ## Each *.java file contains:
 - The name of the problem in the file name
 - A link to the page with the task description
+- Runtime
+- Memory
 - The date the task was solved
 - The solution to the problem
 
